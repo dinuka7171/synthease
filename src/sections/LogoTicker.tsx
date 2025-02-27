@@ -6,6 +6,7 @@ import pulseLogo from "@/assets/logo-pulse.png";
 import apexLogo from "@/assets/logo-apex.png";
 import Image from "next/image";
 
+
 export const LogoTicker = () => {
   return (
     <div className="py-8 md:py-12 bg-white">
